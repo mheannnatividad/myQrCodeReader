@@ -1,0 +1,40 @@
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\bin\Debug\qrcodereader.exe.config
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\bin\Debug\qrcodereader.exe
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\bin\Debug\qrcodereader.pdb
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\bin\Debug\AForge.dll
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\bin\Debug\AForge.Video.dll
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\bin\Debug\zxing.dll
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\bin\Debug\zxing.presentation.dll
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\bin\Debug\AForge.xml
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\bin\Debug\AForge.Video.xml
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\bin\Debug\zxing.xml
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\bin\Debug\zxing.presentation.xml
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\obj\Debug\qrcodereader.csproj.AssemblyReference.cache
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\obj\Debug\qrcodereader.Form1.resources
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\obj\Debug\qrcodereader.Properties.Resources.resources
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\obj\Debug\qrcodereader.csproj.GenerateResource.cache
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\obj\Debug\qrcodereader.csproj.CoreCompileInputs.cache
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\obj\Debug\qrcodereader.exe
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\qrcodereader\qrcodereader\obj\Debug\qrcodereader.pdb
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\bin\Debug\qrcodereader.exe.config
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\bin\Debug\qrcodereader.exe
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\bin\Debug\qrcodereader.pdb
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\bin\Debug\AForge.dll
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\bin\Debug\AForge.Video.dll
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\bin\Debug\zxing.dll
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\bin\Debug\zxing.presentation.dll
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\bin\Debug\AForge.xml
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\bin\Debug\AForge.Video.xml
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\bin\Debug\zxing.xml
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\bin\Debug\zxing.presentation.xml
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\obj\Debug\qrcodereader.csproj.AssemblyReference.cache
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\obj\Debug\qrcodereader.Form1.resources
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\obj\Debug\qrcodereader.Properties.Resources.resources
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\obj\Debug\qrcodereader.csproj.GenerateResource.cache
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\obj\Debug\qrcodereader.csproj.CoreCompileInputs.cache
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\obj\Debug\qrcodereader.exe
+C:\Users\Rom\Desktop\mheann's files\qrcodereader\qrcodereader\obj\Debug\qrcodereader.pdb
